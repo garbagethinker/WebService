@@ -3,6 +3,7 @@
         <title>
             This is testing site
         </title>
+        <link rel="stylesheet" type="text/css" href="css/main.css"/>
     </head>
     <body>
         <div id="header">This is the header</div>
