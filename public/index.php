@@ -1,5 +1,14 @@
-<?php
-
-echo "Hello".'<br>';
-
-echo "Bhupendra Singh Yadav";
+<html>
+    <head>
+        <title>
+            This is testing site
+        </title>
+    </head>
+    <body>
+        <div id="header">This is the header</div>
+        <div id="navbar">Navbar</div>
+        <div id="main_content">Main Content</div>
+        <div id="sidebar">Sidebar</div>
+        <div id="footer">Footer</div>
+    </body>
+</html>
